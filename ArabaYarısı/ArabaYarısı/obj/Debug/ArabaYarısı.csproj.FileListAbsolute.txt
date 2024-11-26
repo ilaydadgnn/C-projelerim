@@ -1,0 +1,10 @@
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\bin\Debug\ArabaYarısı.exe.config
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\bin\Debug\ArabaYarısı.exe
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\bin\Debug\ArabaYarısı.pdb
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.csprojAssemblyReference.cache
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.Form1.resources
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.Properties.Resources.resources
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.csproj.GenerateResource.cache
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.csproj.CoreCompileInputs.cache
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.exe
+C:\Users\İLAYDA\Source\Repos\ArabaYarısı\ArabaYarısı\obj\Debug\ArabaYarısı.pdb
